@@ -1,6 +1,6 @@
 # Coding Exercise 
 
-This coding exercise consists of 3 parts. Each part is unlocked after the previous is complete.\
+This coding exercise consists of 3 parts. Each part is unlocked after the previous is complete.
 
 
 ## Available Data
