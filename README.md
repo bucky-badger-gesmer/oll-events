@@ -16,6 +16,7 @@ Open [https://oll-coding-exercise.s3-us-west-2.amazonaws.com/venues.json](https:
 ### `artists.json`
 Open [https://oll-coding-exercise.s3-us-west-2.amazonaws.com/artists.json](https://oll-coding-exercise.s3-us-west-2.amazonaws.com/artists.json)
 
+
 ## Available Scripts
 
 In the project directory, you can run:
