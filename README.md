@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Coding Exercise 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This coding exercise consists of 3 parts. Each part is unlocked after the previous is complete.\
+
+
+## Available Data
+
+Here is data for this exercise.
+
+### `events.json`
+Open [https://oll-coding-exercise.s3-us-west-2.amazonaws.com/events.json](https://oll-coding-exercise.s3-us-west-2.amazonaws.com/events.json)
+
+### `venues.json`
+Open [https://oll-coding-exercise.s3-us-west-2.amazonaws.com/venues.json](https://oll-coding-exercise.s3-us-west-2.amazonaws.com/venues.json)
+
+### `artists.json`
+Open [https://oll-coding-exercise.s3-us-west-2.amazonaws.com/artists.json](https://oll-coding-exercise.s3-us-west-2.amazonaws.com/artists.json)
 
 ## Available Scripts
 
