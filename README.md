@@ -1,7 +1,42 @@
 # Coding Exercise 
 
-This coding exercise consists of 3 parts. Each part is unlocked after the previous is complete.
+Coding Exercise  Final interview with the candidate will be performed by a committee of employees listed on the table above. The candidate will need to be prepared for the call, with his laptop having the following systems installed and configured: 
 
+• Prepare all the software needed to build an app using React framework 
+• Have MS Teams installed to share their screen and be able to do a video-call Candidate must have their camera on and share their whole screen. Test exercise will be communicated at the interview. Coding exercise consists of 3 parts. Each part is unlocked after the previous is complete. 
+
+Part 1 File named events.json stores list of events to be displayed on the website, each of them structured as: 
+ `{
+  id: 1000, //unique identifier of the event
+  title: "John Anthony Live", //title to be displayed on the webpage
+  price: "45.63", //price of a ticket
+  date: "5742987324", //date of the event
+  artist_id: 234, //identifier of the artist
+  venue_id: 14, //identifier of the venue
+};`
+
+File named artists.json stores information about the artists 
+`{
+  id: 234, //unique identifier of the artist
+  name: "John Anthony", //display name of the artist
+  genre: "Pop", //genre the artist performs at
+};`
+
+File named venues.json stores information about the venues 
+`{
+  id: 14, //unique identifier of the venue
+  name: "Staples Center", //name of the venue
+  icon: "", //icon for the venue
+  address: "1111 Kobe Bryant Blvd, Los Angeles, CA 90015", //address of the venue
+};`
+
+Your task is to display data on a table, structured as: <table> <thead> <th>Event Date</th> <th>Event Name</th> <th>Artist Name</th> <th>Artist Genre</th> <th>Venue</th> <th>Ticket Price</th> </thead> <tbody> ... display data here </tbody> </table> Each row must display the corresponding data from the files. Each <tr> must have id formatted as “event_%id_of_the_event” Format date as “MM/DD/YYYY hh:mm” Assume the price is in USD Only display Venue name in the “Venue” column 
+  
+Part 2 Extend the column Venue, by creating a <div class=”venue-details”> and making each name of the venue a clickable link. On click, div is displayed and the following info is in the div: 
+- Venue Name - Venue Address - Venue icon (max size 100x100) 
+  
+Part 3 Make table sortable by Artist Name, Venue Name or Event Date
+  
 
 ## Available Data
 
